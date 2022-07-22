@@ -1,10 +1,19 @@
+attrs==21.4.0
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
 fastapi==0.62.0
+greenlet==1.1.2
+h11==0.13.0
+idna==2.10
+iniconfig==1.1.1
+Jinja2==3.1.2
 jmespath==0.10.0
+MarkupSafe==2.1.1
+mysql-connector-python==8.0.29
 packaging==20.9
 pluggy==0.13.1
+protobuf==4.21.3
 py==1.10.0
 pyasn1==0.4.8
 pydantic==1.6.1
@@ -17,6 +26,7 @@ PyYAML==5.3.1
 requests==2.25.0
 rsa==4.5
 six==1.15.0
+SQLAlchemy==1.4.39
 starlette==0.13.6
 toml==0.10.2
 urllib3==1.25.10
